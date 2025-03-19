@@ -1,8 +1,8 @@
 {
   "ID": "2FA48E560F1D45C09FB969D6C403AA13",
-  "ActionKeyword": "gpt",
+  "ActionKeyword": "t3",
   "IsGlobal": true,
-  "Name": "ChatGPT Search",
+  "Name": "T3 Chat Search",
   "Author": "ferraridavide",
   "Version": "1.0.0",
   "Language": "csharp",

@@ -50,7 +50,7 @@ namespace Community.PowerToys.Run.Plugin.ChatGPT
             // empty query
             if (string.IsNullOrEmpty(query.Search))
             {
-                string arguments = "https://chatgpt.com/";
+                string arguments = "https://t3.chat/";
                 results.Add(new Result
                 {
                     Title = Properties.Resources.plugin_description,
@@ -83,7 +83,7 @@ namespace Community.PowerToys.Run.Plugin.ChatGPT
                     IcoPath = _iconPath,
                 };
 
-                string arguments = $"https://chatgpt.com/?q={HttpUtility.UrlEncode(searchTerm)}";
+                string arguments = $"https://t3.chat/?q={HttpUtility.UrlEncode(searchTerm)}";
 
                 result.ProgramArguments = arguments;
                 result.Action = action =>
