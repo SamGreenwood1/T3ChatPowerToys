@@ -7,6 +7,6 @@
   "Version": "1.0.0",
   "Language": "csharp",
   "Website": "https://aka.ms/powertoys",
-  "ExecuteFileName": "Community.PowerToys.Run.Plugin.T3Chat.dll",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.T3ChatPowerToys.dll",
   "IcoPath": "Images\\T3.png"
 }

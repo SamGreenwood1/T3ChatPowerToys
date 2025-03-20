@@ -5,8 +5,8 @@
 	<PropertyGroup>
 		<ProjectGuid>{1B9CEB09-E879-45E8-93F4-BD5CD555EAA7}</ProjectGuid>
 		<AppDesignerFolder>Properties</AppDesignerFolder>
-		<RootNamespace>Community.PowerToys.Run.Plugin.T3Chat</RootNamespace>
-		<AssemblyName>Community.PowerToys.Run.Plugin.T3Chat</AssemblyName>
+		<RootNamespace>Community.PowerToys.Run.Plugin.T3ChatPowerToys</RootNamespace>
+		<AssemblyName>Community.PowerToys.Run.Plugin.T3ChatPowerToys</AssemblyName>
 		<useWPF>true</useWPF>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
