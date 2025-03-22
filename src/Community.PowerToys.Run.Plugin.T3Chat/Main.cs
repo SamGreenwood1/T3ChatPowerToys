@@ -13,7 +13,7 @@ using Wox.Plugin;
 using Wox.Plugin.Logger;
 using BrowserInfo = Wox.Plugin.Common.DefaultBrowserInfo;
 
-namespace Community.PowerToys.Run.Plugin.T3Chat
+namespace Community.PowerToys.Run.Plugin.T3ChatPowerToys
 {
     public class Main : IPlugin, IPluginI18n, IContextMenu, IReloadable, IDisposable
     {
